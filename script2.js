@@ -2,7 +2,7 @@ var body = document.querySelector("BODY");
 var img = document.getElementsByClassName("image");
 var ind = 0;
 var canSpam = true;
-var spamRate = 20;
+var spamRate = 1;
 var spam = 0;
 var pointer = document.getElementById("pointer");
 var posX;
